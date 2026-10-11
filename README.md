@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logoSmall.png" alt="SunHours Solar Forecast" width="160">
+</p>
+
 # SunHours Solar Forecast for Home Assistant
 
 A small custom integration inspired by the SunHours.app calculator. It looks up a UK postcode with postcodes.io, requests hourly solar radiation and a 7-day daily solar forecast from Open-Meteo, and creates Home Assistant sensors.
