@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/lowe493/ha-sunhours/blob/f61f3113a53332668ada644874dcb1981fb7bf0b/img/logoSmall.png" alt="SunHours Solar Forecast" width="160">
-</p>
+![logo](https://github.com/lowe493/ha-sunhours/blob/master/img/logoSmall.png)
 
 # SunHours Solar Forecast for Home Assistant
 
