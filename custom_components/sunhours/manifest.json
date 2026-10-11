@@ -1,0 +1,10 @@
+{
+  "domain": "sunhours",
+  "name": "SunHours Solar Forecast",
+  "version": "1.0.0",
+  "documentation": "https://github.com/lowe493/ha-sunhours",
+  "issue_tracker": "https://github.com/lowe493/ha-sunhours/issues",
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

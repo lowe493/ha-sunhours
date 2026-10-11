@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "SunHours Solar Forecast",
+        "description": "Enter a UK postcode and your solar system's rated capacity in kW.",
+        "data": {
+          "postcode": "UK postcode",
+          "capacity_kw": "Solar system capacity (kW)"
+        }
+      }
+    },
+    "error": {
+      "invalid_postcode": "Enter a valid UK postcode.",
+      "invalid_capacity": "Capacity must be greater than 0 and no more than 100 kW."
+    },
+    "abort": {
+      "already_configured": "This postcode is already configured."
+    }
+  }
+}
