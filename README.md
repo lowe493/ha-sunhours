@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logoSmall.png" alt="SunHours Solar Forecast" width="160">
+  <img src="img/logoSmall.png" alt="SunHours Solar Forecast" width="160">
 </p>
 
 # SunHours Solar Forecast for Home Assistant
